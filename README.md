@@ -1,6 +1,6 @@
 # Hola mi nombre es Carlos Juan 👋
 
-## ![https://github.com/carjuancara](./banner.webp)
+## ![https://github.com/carjuancara](./carjuancara-github-profile.webp)
 
 Soy un **desarrollador backend** con experiencia en el diseño, desarrollo e implementación de aplicaciones web. Tengo un **enfoque estructurado** y **modular** en mis proyectos, priorizando el uso de buenas prácticas y tecnologías eficientes. He trabajado con frameworks como **Django**, así como con bases de datos relacionales como **PostgreSQL** y *SQLite*, utilizando ORMs como **SQLAlchemy** y **Peewee**.
 
